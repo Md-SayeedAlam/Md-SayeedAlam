@@ -62,7 +62,7 @@
 
 ###
 
-<p align="left">Social Media</p>
+<h3 align="left">Social Media</h3>
 
 ###
 
